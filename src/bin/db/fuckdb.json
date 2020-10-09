@@ -1,0 +1,16 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 3306,
+    "password": "qwe123",
+    "user": "root",
+    "table": "tbl_user",
+    "database": "goFresh",
+    "packageName": "user",
+    "structName": "User",
+    "structSorted": false,
+    "jsonAnnotation": true,
+    "xmlAnnotation": false,
+    "gormAnnotation": true
+  }
+}
